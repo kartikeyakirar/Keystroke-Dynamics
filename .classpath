@@ -2,5 +2,23 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="src/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/com.fasterxml.jackson.annotations.jar"/>
+	<classpathentry kind="lib" path="src/lib/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="src/lib/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="src/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="src/lib/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/jackson-core-lgpl-1.0.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/jackson-mapper-lgpl-0.9.8.jar"/>
+	<classpathentry kind="lib" path="src/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="src/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="src/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/jd-gui-1.1.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/mail-1.5.0-b01.jar"/>
+	<classpathentry kind="lib" path="src/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/json-20150729.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
